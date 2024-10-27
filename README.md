@@ -1,2 +1,2 @@
 # Technology-News-Blog
- Digital School for practice
+ Digital School Lipjan for practice
